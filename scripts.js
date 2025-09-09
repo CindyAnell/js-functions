@@ -4,9 +4,11 @@
 // TO DO
 
 function addTwoNums(num1, num2){
-    let sum = 0;
+    return num1 + num2;
+    
+    /*let sum = 0;
     sum =  num1 +num2;
-    return sum;
+    return sum;*/
 
     //let sum = num1 + num2;
 
